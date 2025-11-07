@@ -22,7 +22,7 @@ It demonstrates the practical application of the **A\* (A-Star) Algorithm**, a c
 * **python-pathfinding:** A third-party library providing the A\* (A-Star) algorithm.
 
 ## 📸 Screenshot
-![Program Screenshot](<img width="598" height="446" alt="image" src="https://github.com/user-attachments/assets/cd966278-00b0-415e-aa1e-9a8b4adc0301" />)
+<img width="598" height="446" alt="image" src="https://github.com/user-attachments/assets/cd966278-00b0-415e-aa1e-9a8b4adc0301" />
 
 ## 🎬 How to Run
 
